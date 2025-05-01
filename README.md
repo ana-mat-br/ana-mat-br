@@ -35,8 +35,3 @@ Bem-vindo(a) ao meu perfil GitHub! 🚀 Aqui você encontrará projetos, estudos
   ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=flat-square)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
   ![PHPStorm](https://img.shields.io/badge/-PHPStorm-000000?logo=phpstorm&logoColor=white&style=flat-square)
-
----
-
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ana-mat-br&show_icons=true&theme=radical)
