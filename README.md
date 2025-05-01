@@ -9,7 +9,16 @@ Bem-vindo(a) ao meu perfil GitHub! 🚀 Aqui você encontrará projetos, estudos
 - 🌱 Estou aprendendo mais sobre: **Laravel, desenvolvimento back-end e automações com GitHub Actions.**
 - 🤝 Estou aberta a colaborar em: **projetos open-source e iniciativas educacionais.**
 - 💬 Pergunte-me sobre: **R, RStudio, React, Vue, Laravel, PHPStorm e boas práticas de desenvolvimento.**
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [E-mail](mailto:seu-email@exemplo.com)
+- 📚 **Resumo do meu CV**:
+  Atualmente sou docente na Universidade Federal do Triângulo Mineiro (UFTM), possuo graduação em Matemática e Artes Plásticas pela Universidade Federal de Uberlândia (UFU), além de mestrado e doutorado em Engenharia Mecânica pela UFU. Minha experiência concentra-se na área de Matemática Aplicada, com ênfase em Problemas Inversos. Atuo principalmente nos seguintes temas:
+  - Condução de calor
+  - Solução analítica
+  - Problemas inversos
+  - Funções de Green
+
+  Para mais detalhes, acesse meu [Currículo Lattes](https://lattes.cnpq.br/5582801060910261). 
+
+- 📫 Como me encontrar: [E-mail](mailto:anapaula.fernandes@uftm.edu.br)
 
 ---
 
@@ -37,8 +46,6 @@ Bem-vindo(a) ao meu perfil GitHub! 🚀 Aqui você encontrará projetos, estudos
 ## 🌟 Projetos em destaque
 - [**Curso de GitHub para Certificação**](https://github.com/ana-mat-br/github-curso): Aprenda a usar o GitHub de forma prática e eficiente!
 - [**Projeto em RStudio**](#): Desenvolvendo análises estatísticas com R e RStudio.
-- [**Projeto Front-End com React e Vue**](#): Explorando o poder das bibliotecas e frameworks modernos.
-- [**Aplicação Web com Laravel**](#): Criando sistemas robustos e escaláveis com Laravel.
 
 ---
 
