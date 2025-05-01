@@ -24,17 +24,20 @@ Bem-vindo(a) ao meu perfil GitHub! 🚀 Aqui você encontrará projetos, estudos
 
 ## ⚡ Tecnologias e Ferramentas
 - **Linguagens e Frameworks**:  
+
   ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
   ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
 - **Ferramentas de Desenvolvimento**:
-  ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?logo=mathworks&logoColor=white&style=flat-square)
-  ![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100?logo=wolfram&logoColor=white&style=flat-square)
+
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
   ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=flat-square)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
   ![PHPStorm](https://img.shields.io/badge/-PHPStorm-000000?logo=phpstorm&logoColor=white&style=flat-square)
+  ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?logo=mathworks&logoColor=white&style=flat-square)
+  ![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100?logo=wolfram&logoColor=white&style=flat-square)
+
